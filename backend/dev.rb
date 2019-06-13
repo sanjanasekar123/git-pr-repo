@@ -5,4 +5,5 @@ if folder == 'development'
   puts 'yessss'
 else
   puts 'oh noooo'
+  exit(0)
 end
