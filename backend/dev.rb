@@ -2,8 +2,8 @@
 
 folder = 'development'
 if folder == 'development'
-  puts 'yessss'
+  puts 'yes'
 else
-  puts 'oh noooo'
+  puts 'oh no'
   exit(0)
 end
